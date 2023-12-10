@@ -1,0 +1,2 @@
+# rigorhole
+Static site
