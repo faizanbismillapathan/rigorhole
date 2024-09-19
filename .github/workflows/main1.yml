@@ -19,4 +19,4 @@ jobs:
       with:
         server: 184.168.101.140
         username: faizan@faizan.7techsolutions.com
-        password: ${{ secrets.FTP_PASSWORD }}  # Use the secret for the password
+        password: Q-q?XB2tI%q?  # Use the secret for the password
